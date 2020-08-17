@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryselle-Matienzo_Exercise01", "Kryselle-Matienzo_Exercise01\Kryselle-Matienzo_Exercise01.csproj", "{C10B7196-7FB1-4E3A-81FC-FFE6CAABD056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryselle-Matienzo_Exercise02", "Kryselle-Matienzo_Exercise02\Kryselle-Matienzo_Exercise02.csproj", "{41AD73DB-CA65-45B7-9166-4E51DAFB578B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryselle-Matienzo_LinkedListLibrary", "Kryselle-Matienzo_LinkedListLibrary\Kryselle-Matienzo_LinkedListLibrary.csproj", "{E97A7632-08B2-4CA0-B780-55D2C7E7BC03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryselle-Matienzo_QueueInheritanceLibrary", "Kryselle-Matienzo_QueueInheritanceLibrary\Kryselle-Matienzo_QueueInheritanceLibrary.csproj", "{BAC5A027-CF23-48A1-AA69-9713E69D910E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryselle-Matienzo_QueueInheritanceTest", "QueueInheritanceTest\Kryselle-Matienzo_QueueInheritanceTest.csproj", "{C23D41C5-DBB8-4D90-8C35-40DB654E9391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryselle-Matienzo_LinkedListLibraryTest", "Kryselle-Matienzo_LinkedListLibraryTest\Kryselle-Matienzo_LinkedListLibraryTest.csproj", "{17FD88B1-A03D-4BF9-856D-B468FC041390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10B7196-7FB1-4E3A-81FC-FFE6CAABD056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10B7196-7FB1-4E3A-81FC-FFE6CAABD056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10B7196-7FB1-4E3A-81FC-FFE6CAABD056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10B7196-7FB1-4E3A-81FC-FFE6CAABD056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AD73DB-CA65-45B7-9166-4E51DAFB578B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AD73DB-CA65-45B7-9166-4E51DAFB578B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AD73DB-CA65-45B7-9166-4E51DAFB578B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AD73DB-CA65-45B7-9166-4E51DAFB578B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97A7632-08B2-4CA0-B780-55D2C7E7BC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97A7632-08B2-4CA0-B780-55D2C7E7BC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97A7632-08B2-4CA0-B780-55D2C7E7BC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97A7632-08B2-4CA0-B780-55D2C7E7BC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC5A027-CF23-48A1-AA69-9713E69D910E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC5A027-CF23-48A1-AA69-9713E69D910E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC5A027-CF23-48A1-AA69-9713E69D910E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC5A027-CF23-48A1-AA69-9713E69D910E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23D41C5-DBB8-4D90-8C35-40DB654E9391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23D41C5-DBB8-4D90-8C35-40DB654E9391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23D41C5-DBB8-4D90-8C35-40DB654E9391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23D41C5-DBB8-4D90-8C35-40DB654E9391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FD88B1-A03D-4BF9-856D-B468FC041390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FD88B1-A03D-4BF9-856D-B468FC041390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FD88B1-A03D-4BF9-856D-B468FC041390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FD88B1-A03D-4BF9-856D-B468FC041390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A257B90-C96F-4799-9A08-F537F8CEC52B}
+	EndGlobalSection
+EndGlobal
